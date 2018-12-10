@@ -1,0 +1,3 @@
+In Python you can code. It's pretty similar to many other forms of coding.
+
+In Python you can stress yourself out as much as you would if you coded in Java. 
